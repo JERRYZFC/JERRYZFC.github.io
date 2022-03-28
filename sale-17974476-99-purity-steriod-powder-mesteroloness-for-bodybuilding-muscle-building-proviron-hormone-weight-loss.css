@@ -1,0 +1,26 @@
+/*!*******************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/less-loader/dist/cjs.js!./src/page-sale-17974476-99-purity-steriod-powder-mesteroloness-for-bodybuilding-muscle-building-proviron-hormone-weight-loss/page.css ***!
+  \*******************************************************************************************************************************************************************************************************************************/
+/*.col {*/
+/*  align-self: center;*/
+/*  height: 100%;*/
+/*}*/
+.row .display-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.row.display-flex > [class*='col'] {
+  flex-grow: 0;
+}
+.col .card .card-title {
+  font-size: 0.98rem;
+  font-weight: bold;
+}
+.col .card {
+  height: 100%;
+  /*background-color: lightgrey;*/
+}
+.show-more {
+  cursor: pointer;
+}
+

@@ -1,0 +1,26 @@
+/*!*******************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/less-loader/dist/cjs.js!./src/page-sale-18339850-test-ace-anabolic-steroid-injections-testosterone-acetate-preventing-osteoporosis-test-acetate-powde/page.css ***!
+  \*******************************************************************************************************************************************************************************************************************************/
+/*.col {*/
+/*  align-self: center;*/
+/*  height: 100%;*/
+/*}*/
+.row .display-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.row.display-flex > [class*='col'] {
+  flex-grow: 0;
+}
+.col .card .card-title {
+  font-size: 0.98rem;
+  font-weight: bold;
+}
+.col .card {
+  height: 100%;
+  /*background-color: lightgrey;*/
+}
+.show-more {
+  cursor: pointer;
+}
+

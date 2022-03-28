@@ -1,0 +1,13 @@
+/*!*********************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/less-loader/dist/cjs.js!./src/page-products/page.css ***!
+  \*********************************************************************************************************************/
+body {
+  background-color: darkslategrey;
+}
+nav {
+  background-color: #8d0085;
+}
+.page-title {
+  color: #1c1c2a;
+}
+
