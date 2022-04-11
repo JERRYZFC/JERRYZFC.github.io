@@ -33,6 +33,9 @@ body {
   overflow: scroll;
   overflow-x: hidden;
 }
+h1 {
+  font-size: 24px;
+}
 p {
   text-indent: 2em;
 }
